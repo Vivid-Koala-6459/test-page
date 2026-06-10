@@ -1,21 +1,7 @@
-
 # Core app dependencies
-#python==3.11.0
+
 streamlit==1.50.0
-groq==0.36.0
-httpx==0.28.1
-matplotlib==3.9.2
-numpy==1.26.4
-openai==2.9.0
-pandas==2.2.2
-pandas_datareader
-plotly==5.24.0
-requests==2.32.3
-yfinance==0.2.66
+
 
 streamlit-cookies-manager-v2
 pdfkit
-
-# Optional but often needed
-#pyarrow==22.0.0
-#cryptography==46.0.3 
